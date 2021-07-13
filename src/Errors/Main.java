@@ -6,6 +6,7 @@ import java.util.Collections;
 
 public class Main {
     public static void main(String[] args) {
+        //Create first car
         Car car1 = new Car.Builder()
                 .withName("Lada")
                 .withColor("White")
