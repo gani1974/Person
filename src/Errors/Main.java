@@ -7,6 +7,7 @@ public class Main {
                 .withName("Lada")
                 .withColor("White")
                 .build();
+        //Create second car
         Car car2 = new Car.Builder()
                 .withName("Volvo")
                 .withColor("Green")
